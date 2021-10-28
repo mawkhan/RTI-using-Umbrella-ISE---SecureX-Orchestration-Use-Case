@@ -1,1 +1,1 @@
-# RTI-using-Umbrella-ISE---SecureX-Orchestration-Use-Case
+# Rapid-Threat-Isolation-using-Umbrella-ISE---SecureX-Orchestration-Use-Case
