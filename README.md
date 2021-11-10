@@ -53,7 +53,7 @@ https://ciscosecurity.github.io/sxo-05-security-workflows/remote
 ![11](https://user-images.githubusercontent.com/86117124/141064129-51e2a9f6-85c3-47c4-b01e-6269231d0c3c.png)
 -	Open a url https://www.examplebotnetdomain.com
 -	You should receive message on webex and case will be created inside secureX casebook
-![12](https://user-images.githubusercontent.com/86117124/141064143-8cb46197-c6f0-4b67-be70-2a57b2bcceec.png)
+![13](https://user-images.githubusercontent.com/86117124/141067823-ec3a5975-3f63-49e8-9a85-add0ca40732e.png)
 
 # Links to DevNet Learning Labs
 [SecureX Orchestration](https://developer.cisco.com/learning/modules/SecureX-orchestration)
