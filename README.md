@@ -15,17 +15,17 @@ This workflow requires following applications:
 -	Extract observations from the last alert
 -	For last alert:
 Check if the alert is new by comparing the latest alert time saved in global variable
-If it was, 
+If it was:
    
-     If comprised device is internal,
-             Communicate with Cisco ISE to isolate the observed IP from the alert
-             Update the global variables with the value of current alert time
-             Post a Webex team message with summary and link to investigate further
-     If it is external.
-             Post a Webex team message with summary and link to investigate further
+     If comprised device is internal:
+             - Communicate with Cisco ISE to isolate the observed IP from the alert
+             - Update the global variables with the value of current alert time
+             - Post a Webex team message with summary and link to investigate further
+     If it is external:
+             - Post a Webex team message with summary and link to investigate further
 
-If it wasn’t,
-             Update the global variables with the value of current alert time
+If it wasn’t:
+             -  Update the global variables with the value of current alert time
 # Configuration Steps:
 -	Setting up the SecureX Remote Connector by installing it on-premise Network by following steps mention at below link:
 https://ciscosecurity.github.io/sxo-05-security-workflows/remote
