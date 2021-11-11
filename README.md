@@ -35,7 +35,7 @@ https://ciscosecurity.github.io/sxo-05-security-workflows/remote
 -	Setting up Target for ISE which should include remote connector & account keys
 ![2](https://user-images.githubusercontent.com/86117124/141064044-9ae90c32-ab06-45fe-896b-2c62abde653f.png)
 ![3](https://user-images.githubusercontent.com/86117124/141064052-bd6e98f1-c064-47c6-9b35-c8d7ff2b5200.png)
--	Import the workflow code
+-	Import the workflow code. Goto file name"code" in this repository, it is json formatted code which need to be copied and then paste in SecureX Orcuestration. 
 ![4](https://user-images.githubusercontent.com/86117124/141064061-25e83821-3ad9-4a22-933b-63af7546064f.png)
 -	Setting up the variables as listed below:
 ![5](https://user-images.githubusercontent.com/86117124/141065976-b5607f19-9548-4d3e-8f98-8b480c4d084d.png)
