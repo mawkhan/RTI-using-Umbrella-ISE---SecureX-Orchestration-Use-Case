@@ -56,6 +56,6 @@ https://ciscosecurity.github.io/sxo-05-security-workflows/remote
 ![13](https://user-images.githubusercontent.com/86117124/141067823-ec3a5975-3f63-49e8-9a85-add0ca40732e.png)
 
 # Demo
-[YouTube link](https://www.youtube.com/watch?v=3enVcZ0m-Ps)
+[YouTube link](https://www.youtube.com/watch?v=nlhXUQeOPOE)
 # Links to DevNet Learning Labs
 [SecureX Orchestration](https://developer.cisco.com/learning/modules/SecureX-orchestration)
